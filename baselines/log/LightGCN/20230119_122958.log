@@ -1,0 +1,8 @@
+[INFO] 2023-01-19 12:29:58,836 Experiment ID.20230119_122958 start ...... 
+[INFO] 2023-01-19 12:29:58,836 Namespace(EPOCHS=200, LightGCN_embed_dim=32, LightGCN_n_layers=2, batch_size=512, data_name='movie-book', experiment_dir='log\\LightGCN\\20230119_122958', experiment_id='20230119_122958', experiment_name='20230119_122958', init_lr=0.001, model_name='LightGCN', test_num_ng=99, topKs=[1, 2, 5, 10], train_num_ng=4) 
+[INFO] 2023-01-19 12:32:50,163 EPOCH 0: loss 0.7009. 
+[INFO] 2023-01-19 12:35:10,268 EPOCH 1: loss 0.6004. 
+[INFO] 2023-01-19 12:37:29,588 EPOCH 2: loss 0.4980. 
+[INFO] 2023-01-19 12:39:37,160 EPOCH 3: loss 0.4258. 
+[INFO] 2023-01-19 12:41:45,540 EPOCH 4: loss 0.3729. 
+[INFO] 2023-01-19 12:44:09,227 EPOCH 5: loss 0.3346. 

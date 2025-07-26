@@ -1,0 +1,9 @@
+[INFO] 2023-01-12 08:46:59,698 Experiment ID.20230112_084659 start ...... 
+[INFO] 2023-01-12 08:46:59,698 Namespace(CDATN_GCN_layers=2, CDATN_embed_dim=32, EPOCHS=2, GCDTN_GCN_layers=2, GCDTN_embed_dim=32, LightGCN_embed_dim=32, LightGCN_n_layers=2, batch_size=512, data_name='movie-book', disable_tqdm=False, experiment_dir='log\\LightGCN\\20230112_084659', experiment_id='20230112_084659', experiment_name='20230112_084659', gpu_id=0, init_lr=0.001, model_name='LightGCN', test_num_ng=99, topKs=[5, 10, 20, 50], train_num_ng=4) 
+[INFO] 2023-01-12 08:49:18,039 EPOCH 0: loss 0.7031. 
+[INFO] 2023-01-12 08:50:14,936 EPOCH 0: HR: [0.065, 0.125, 0.239, 0.545], NDCG: [0.039, 0.058, 0.087, 0.147] 
+[INFO] 2023-01-12 08:50:32,838 EPOCH 0: HR: [0.054, 0.099, 0.197, 0.497], NDCG: [0.033, 0.047, 0.072, 0.131] 
+[INFO] 2023-01-12 08:51:29,954 EPOCH 0: HR: [0.058, 0.113, 0.22, 0.522], NDCG: [0.034, 0.052, 0.078, 0.137] 
+[INFO] 2023-01-12 08:51:49,325 EPOCH 0: HR: [0.05, 0.097, 0.195, 0.489], NDCG: [0.03, 0.045, 0.069, 0.127] 
+[INFO] 2023-01-12 08:53:49,441 EPOCH 1: loss 0.6100. 
+[INFO] 2023-01-12 08:53:49,750 Experiment finished. 
