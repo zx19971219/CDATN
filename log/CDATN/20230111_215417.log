@@ -1,9 +1,0 @@
-[INFO] 2023-01-11 21:54:17,900 Experiment ID.20230111_215417 start ...... 
-[INFO] 2023-01-11 21:54:17,901 Namespace(CDATN_GCN_layers=2, CDATN_embed_dim=32, EPOCHS=2, GCDTN_GCN_layers=2, GCDTN_embed_dim=32, batch_size=512, data_name='movie-book', disable_tqdm=False, experiment_dir='log\\CDATN\\20230111_215417', experiment_id='20230111_215417', experiment_name='20230111_215417', gpu_id=0, init_lr=0.001, model_name='CDATN', test_num_ng=99, topKs=[5, 10, 20, 50], train_num_ng=4) 
-[INFO] 2023-01-11 21:56:34,312 EPOCH 0: loss 0.6491. 
-[INFO] 2023-01-11 21:57:31,563 EPOCH 0: HR: [0.152, 0.25, 0.397, 0.691], NDCG: [0.096, 0.128, 0.165, 0.223] 
-[INFO] 2023-01-11 21:57:49,133 EPOCH 0: HR: [0.136, 0.222, 0.353, 0.639], NDCG: [0.087, 0.115, 0.147, 0.204] 
-[INFO] 2023-01-11 21:58:46,192 EPOCH 0: HR: [0.146, 0.24, 0.38, 0.671], NDCG: [0.093, 0.124, 0.159, 0.216] 
-[INFO] 2023-01-11 21:59:05,525 EPOCH 0: HR: [0.137, 0.218, 0.344, 0.608], NDCG: [0.089, 0.115, 0.146, 0.198] 
-[INFO] 2023-01-11 22:01:07,885 EPOCH 1: loss 0.5413. 
-[INFO] 2023-01-11 22:01:08,199 Experiment finished. 
